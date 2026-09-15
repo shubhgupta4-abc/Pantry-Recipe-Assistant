@@ -118,3 +118,4 @@ A simple manual test flow:
 
 - All data is stored as plain text under the `data/` folder, which is created automatically the first time you save.
 - Ingredient and recipe names are matched case-insensitively (e.g., "Onion" and "onion" are treated as the same thing).
+  ## Created by Shubh Gupta 25BAS10095
